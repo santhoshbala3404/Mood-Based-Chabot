@@ -192,7 +192,4 @@ User picks mood ─► SystemMessage set ─► User types message
 - [ ] Add a "Clear chat" button
 - [ ] Deploy on Streamlit Community Cloud (store the key in Streamlit secrets)
 
----
 
-## License
-Add a license of your choice (e.g., MIT) before publishing.
